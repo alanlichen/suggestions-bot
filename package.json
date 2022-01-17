@@ -49,7 +49,7 @@
     "dotenv": "^14.0.0",
     "erlpack": "discord/erlpack",
     "hastebin-gen": "^2.0.5",
-    "kurasuta": "^2.2.3",
+    "kurasuta": "^3.0.0",
     "mongoose": "6.1.3",
     "petitio": "^1.4.0",
     "utf-8-validate": "^5.0.4",
